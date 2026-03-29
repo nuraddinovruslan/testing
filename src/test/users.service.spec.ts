@@ -1,0 +1,3 @@
+const mockRepo = () => ({
+    create: jest
+})
